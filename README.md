@@ -78,7 +78,9 @@ For given data, check if the mass balance is balanced
 1. Fill the required data
    
    ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/main_window.png?raw=true)
+   
 2. Run the program by clicking "Evaluate" button. Fill the mass flow composition for each input and output stream
+
    **Input**\
    ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/input_window.png?raw=true)\
    **Output**\

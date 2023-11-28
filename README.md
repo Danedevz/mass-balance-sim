@@ -96,3 +96,5 @@ For given data, check if the mass balance is balanced
    ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/kmolh_result.png?raw=true)
    
 4. You can reset all the user input if the result doesn't satisfy your need and start from beginning
+
+note: you can adjust the formatting of the table by editting the .sce manually since it's hard coded.

@@ -1,7 +1,7 @@
 # mass-balance-sim
 ### A simple Mass Balance simulation app written in Scilab 6
 
-![window preview](https://github.com/Danedevz/he-simulation/blob/main/preview/Window.png?raw=true)
+![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/main_window.png?raw=true)
 
 #### Required data:
 - Component's name
@@ -76,6 +76,16 @@ For given data, check if the mass balance is balanced
 </table>
 
 1. Fill the required data
+   ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/main_window.png?raw=true)
 2. Run the program by clicking "Evaluate" button. Fill the mass flow composition for each input and output stream
-3. The Status Bar will indicate if your mass balance is balanced or not. The detailed data is shown on the console window
-4. You can reset all user input if the result doesn't satisfy your need  
+   **Input**
+   ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/input_window.png?raw=true)
+   **Output**
+   ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/output_window.png?raw=true)
+4. The Status Bar will indicate if your mass balance is balanced or not. The detailed data is shown on the console window
+   *The status bar will light green if the mass balance is balanced*
+   ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/accepted_window.png?raw=true)
+   *Data shown on the console windows*
+   ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/kgh_result.png?raw=true)
+   ![window preview](https://github.com/Danedevz/mass-balance-sim/blob/main/preview/kmolh_result.png?raw=true)
+6. You can reset all the user input if the result doesn't satisfy your need and start from beginning
